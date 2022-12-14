@@ -2,7 +2,7 @@
 <h4>Evil-Droid TO MAKE PAYLOAD TO HACKING ANDROID </h4>
 
 # AVISO:
-<h2>THIS IS THE MODIDIED TOOL</h2>
+<h2>THIS IS THE MODIFIED TOOL</h2>
 
 # Screenshots:
 ![screen 1](https://user-images.githubusercontent.com/78913656/196567717-90dca4eb-8489-4d18-8042-86c1fd12a9f7.png)
