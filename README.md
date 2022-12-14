@@ -1,6 +1,6 @@
 # EVILDROID1
 <h4>Evil-Droid TO MAKE PAYLOAD TO HACKING ANDROID </h4>
-
+<h4>FOLLOW ME IN INSTAGRAM<h4>
 # AVISO:
 <h2>THIS IS THE MODIFIED TOOL</h2>
 
@@ -25,6 +25,7 @@
 
 cd EVILDROID1 <br>
 chmod +x evil-droid <br>
-./evil-droid 
+sudo ./evil-droid 
 
 </h6>
+
