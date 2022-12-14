@@ -21,9 +21,9 @@
 
 # Download/Config/uso:
 
-<h6> git clone https://github.com/b7of/EVILDROID1
+<h6> git clone https://github.com/b7of/EVILDROID1.git
 
-cd Evil-Droid <br>
+cd EVILDROID1 <br>
 chmod +x evil-droid <br>
 ./evil-droid 
 
